@@ -53,8 +53,27 @@ nav{
     width: 300px;
     border-left: 1px solid #222;
     border-right: 1px solid #222;
+    /* border-bottom: 2px solid #222; */
     text-align: center;
     margin-top: 30px;
+}
+.tittle{
+    font-size: 24px;
+    color: #222;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+}
+.text{
+    font-size: 16px;
+    color: #383838;
+    text-transform: capitalize;
+}
+.price{
+    font-size: 18px;
+    color: hotpink;
+    font-weight: 700;
+    padding: 10px 0;
 }
 .buy_btn{
     padding: 10px 24px;
